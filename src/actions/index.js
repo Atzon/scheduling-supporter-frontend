@@ -1,6 +1,6 @@
 import axios from 'axios';
 
-const ROOT_URL = 'http://localhost:8080';
+const ROOT_URL = 'https://scheduling-supporter-back.herokuapp.com';
 
 export const UPLOAD_FILE = 'UPLOAD_FILE';
 export const FETCH_LESSONS = 'FETCH_LESSONS';
